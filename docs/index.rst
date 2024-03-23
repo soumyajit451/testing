@@ -1,9 +1,9 @@
-.. testeing documentation master file, created by
+.. creditcard documentation master file, created by
    sphinx-quickstart.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-testeing documentation!
+creditcard documentation!
 ==============================================
 
 Contents:
